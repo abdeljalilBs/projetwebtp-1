@@ -25,3 +25,48 @@
     display: flex;
     flex-direction: row;
 }
+
+
+.divA{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(200, 255, 0);
+}
+.divB{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(115, 0, 255);
+}
+
+.divC{
+    width: 200px;
+    height: 200px;
+    background-color:
+    rgb(128, 0, 51);
+}
+.divmaman2{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+.div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(155, 144, 168);
+
+}
+.divQ{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(71, 55, 90);
+
+}
+.divS{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(138, 43, 87);
+
+}
+.divmaman3{
+    display: flex;
+    flex-direction: row-reverse;
+}
